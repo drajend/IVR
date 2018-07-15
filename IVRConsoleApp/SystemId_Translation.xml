@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <UNIT>
+    <A>Exclude</A>
+    <B>Exclude</B>
+    <C>Exclude</C>
+    <E>Exclude</E>
+    <F>Exclude</F>
+    <G>CSS</G>
+    <U>Exclude</U>
+    <V>CSS</V>
+    <Y>CS-A</Y>
+    <M>AGLIFECS</M>
+    <J>Exclude</J>
+    <Q>Exclude</Q>
+    <K>CS-A</K>
+    <L>Exclude</L>
+    <T>UL-A</T>
+  </UNIT>
+  <transaction>
+    <field SYSTEMID="G" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="A" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="B" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="C" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="E" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="F" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="U" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="V" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="Y" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="M" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="J" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="Q" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="K" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="L" WRKT="IVRDOC" STAT="RIPPED" />
+    <field SYSTEMID="T" WRKT="IVRDOC" STAT="RIPPED" />
+  </transaction>
+  <sourcePath>
+    <path1>\\PWSAASESUBMIT02\testsftp\LifeIVR\plsaaslrivr01</path1>
+    <path2>\\PWSAASESUBMIT02\testsftp\LifeIVR\plsaaslrivr02</path2>
+    <path3>\\PWSAASESUBMIT02\testsftp\LifeIVR\plsaaslrivr03</path3>
+    <path4>\\PWSAASESUBMIT02\testsftp\LifeIVR\plsaaslrivr04</path4>
+   
+    
+  </sourcePath>
+</root>

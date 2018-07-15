@@ -1,0 +1,10 @@
+{
+
+	"ScheduleIntervalInMinute": "2",
+	"LogFilePath": "D:\\IVRLogs\\log-{Date}.json",
+	"OutputRIPPath": "\\\\pnsafsda10\\AWDRIP_Dev\\Indexes",
+	"CSVArchivePath": "\\\\pnsafsda10\\AWDRIP_Dev\\Images\\IVR_Archive\\CSV",
+	"XMLArchivePath": "\\\\pnsafsda10\\AWDRIP_Dev\\Images\\IVR_Archive\\XML"
+	
+
+}

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Template>
+  <UNIT>SystemID</UNIT>
+  <WRKT>GENERIC</WRKT>
+  <STAT>CREATED</STAT>
+  <SOON>IVR</SOON>
+  <POLN>PolicyNumber</POLN>
+  <LNAM>LastName</LNAM>
+  <FNAM>FirstName</FNAM>
+  <MNAM>MiddleName</MNAM>
+  <CDAT>Date</CDAT>
+  <CPNO>ANI</CPNO>
+  <COCD>CompanyCode</COCD>
+  <SYSI>SystemID</SYSI>
+  <ALOB>LineOfBusiness</ALOB>
+  <PAD1>AddressLine1</PAD1>
+  <PAD2>AddressLine2</PAD2>
+  <PAD3>AddressLine3</PAD3>
+  <PCTY>City</PCTY>
+  <PSTT>State</PSTT>
+  <PZIP>Zip</PZIP>
+  <EADR>Email</EADR>
+  <FXNM>Fax</FXNM>
+  <SHIP>MethodToSend</SHIP>
+  <DOCT>FormName</DOCT>
+  <SUCC>Status</SUCC>
+  <SOOK>SessionID</SOOK>
+</Template>
